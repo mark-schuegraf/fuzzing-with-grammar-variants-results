@@ -11,4 +11,4 @@ This incurs considerable overlap.
 To this end, opacity is used to represent multiple occurrences of the same coverage value across different runs at the same file number.
 The more transparent a data point is, the less runs produced this coverage value at that stage.
 
-The plots are organized in order of the input language whose grammar model was transformed, followed by the type of transformation that was applied. Next comes the fuzzing strategy used to produce inputs from the grammars for the subject and finally the test subject itself.
+The plots are organized in order of the input language whose grammar model was transformed, followed by the type of transformation that was applied. Next comes the fuzzing strategy used to produce inputs from the grammars of the given language and finally the test subject itself.
